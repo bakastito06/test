@@ -2,3 +2,4 @@
 
 This repository is for practicing collaboration using Git.
 test1
+test2
